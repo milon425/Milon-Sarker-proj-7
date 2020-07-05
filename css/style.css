@@ -442,11 +442,12 @@ padding: 0px 15px;
 .footer span{}
 .footer span a{
 
-    color: #7b7474;
+  color: #847e7e;
     margin: 2px 7px;
-    height: 54px;
-    width: 50px;
+    height: 57px;
+    width: 53px;
     background: white;
+    border-radius: 16px;
     font-size: 20px;
 }
 .row hr{
