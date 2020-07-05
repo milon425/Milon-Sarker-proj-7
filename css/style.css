@@ -31,14 +31,14 @@ font-family: unset;
 	
 }
 .top-section  {
-  background-image: url(../images/top.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 600px;
-  background-position: center;
-  background-color: #585757cc;
-  background-blend-mode: multiply;
-  color: white;
+background-image: url(../images/top.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.47);
+    background-blend-mode: multiply;
+    color: white;
 }
 .top{
 
