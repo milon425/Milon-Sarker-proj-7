@@ -1,0 +1,500 @@
+img{
+	max-width: 100%;
+}
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.navbar-collapse ul{}
+.navbar-collapsee ul li{
+
+}
+.navbar-collapse ul li a{
+	
+font-weight: 600;
+	
+margin: 0 10px;
+	
+font-family: unset;
+}
+
+.navbar-collapse ul li a p {
+	border: 1px solid #73e8e3;
+    border-radius: 16px;
+    padding: 0px 14px;
+    background: #73e8e3;
+}
+
+}
+.collapse ul li a:hover{
+	
+}
+.top-section  {
+  background-image: url(../images/top.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+  background-position: center;
+  background-color: #585757cc;
+  background-blend-mode: multiply;
+  color: white;
+}
+.top{
+
+text-align: center;
+}
+.top h2{
+
+margin-top: 145px;
+
+font-size: 55px;
+
+font-weight: 700;
+
+font-family: cursive;
+}
+.top p{
+
+padding: 35px 98px;
+
+font-size: 24px;
+
+font-weight: 600;
+
+font-family: cursive;
+}
+.top a{
+	
+border: 1px solid #73e8e3;
+	
+background: #73e8e3;
+	
+border-radius: 28px;
+	
+padding: 15px 58px;
+	
+color: #675c5c;
+	
+font-weight: 600;
+}
+.top a span {
+	
+list-style-type: none;
+	
+text-decoration: none;
+	
+color: #444b50;
+}
+.top a:hover{
+
+background: #cef5f5;
+
+text-decoration: none;
+}
+.icon-section{
+
+background: #d1d2d1a3;
+
+padding: 50px 0;
+}
+.icon-section img{
+	
+padding: 0px 5px;
+}
+.main-section{
+
+}
+.wrap-one{
+
+}
+.container-fluid{
+	padding: 0;
+}
+.wrap-one img{
+
+}
+.main-content{
+
+padding: 200px;
+
+padding-right: 394px;
+
+font-family: unset;
+
+color: #737777;
+}
+.main-content h3{
+
+font-weight: 700;
+
+margin-bottom: 23px;
+}
+.main-content p{
+    font-weight: 400;
+    margin-bottom: 42px;
+}
+
+.main-content a span h6{
+
+border: 1px solid #73e8e3;
+
+display: inline;
+
+text-align: center;
+
+margin: auto;
+
+padding: 8px 47px;
+
+border-radius: 17px;
+
+background: #73e8e3;
+
+color: #444b50;
+}
+.main-content a span h6:hover{
+	
+background: #cef5f5;
+
+text-decoration: none;
+}
+.secend-content{
+	
+text-align: left;
+	
+padding: 215px 247px;
+}
+.row{
+	margin: 0;
+}
+.col-6{
+	padding: 0;
+}
+.built-section{
+
+padding: 100px 605px;
+
+text-align: center;
+
+color: dimgrey;
+
+background: #f3f3f3;
+}
+.built-section h3{font-weight: 700;font-family: sans-serif;font-size: 34px;}
+.built-section p{
+
+font-size: 19px;
+
+font-family: sans-serif;
+
+padding: 18px 0;
+
+line-height: 1.2;
+}
+.built-section .col-6{
+	
+}
+.built-section .report a{
+
+border: 1px solid #49e8e8;
+
+padding: 20px 33px;
+
+border-radius: 32px;
+
+background: #49e8e8;
+
+color: dimgrey;
+
+font-weight: 500;
+}
+.built-section .report{
+
+}
+.built-section .report a:hover{
+
+background: #cbfdfd;
+
+text-decoration: none;
+}
+.built-section .sales{
+	
+}
+.built-section .sales a{padding: 20px 65px;border: 1px solid #5bcddc;border-radius: 32px;color: dimgrey;font-weight: 500;}
+.built-section .sales a:hover{
+	
+background: #cbfdfd;
+	
+text-decoration: none;
+}
+.banner-section{
+
+padding-top: 50px;
+
+padding-bottom: 42px;
+}
+.banner-section .col-12 h2{
+
+padding: 40px 0px;
+
+text-align: center;
+
+font-family: sans-serif;
+
+font-weight: 600;
+
+color: #515252;
+}
+.banner-section .col-4{
+
+color: #515252;
+}
+.banner {
+
+background: whitesmoke;
+
+padding-bottom: 28px;
+}
+.banner img{
+
+height: 230px;
+
+width: 339px;
+}
+.banner h5{
+
+padding: 34px 10px;
+
+font-size: 16px;
+
+padding-bottom: 3px;
+}
+.banner h3{
+
+font-family: sans-serif;
+
+font-weight: 600;
+
+font-size: 25px;
+
+padding: 3px 10px;
+}
+.banner p{
+
+font-family: sans-serif;
+
+padding: 10px 10px;
+
+font-variant: small-caps;
+}
+.banner a span{
+	    border: 1px solid #6dd6d1;
+	    border-radius: 30px;
+	    padding: 0px 10px;
+	    margin-left: 32px;
+	    display: table;
+	    color: #949393;
+	    padding-bottom: 6px;
+}
+.banner a:hover{
+	
+background: #1cbfbf;
+	
+text-decoration: none;
+}
+.down-section{
+
+background: #2b3644;
+
+color: white;
+
+padding: 90px 0;
+}
+.down-section .col-6{
+
+}
+.content-part{
+
+padding-right: 142px;
+}
+.content-part h2{
+
+}
+
+.content-part p{
+
+}
+.form-part{
+	
+}
+.form-row .can-help{
+
+width: 552px;
+}
+.downtwo-section{
+
+background: #2b3644;
+
+color: white;
+
+padding-bottom: 108px;
+}
+.downtwo-section h1{padding: 19px 370px;font-size: 38px;font-weight: 700;}
+.downtwo-section h3{
+
+font-size: 26px;
+
+font-weight: 800;
+
+padding: 10px 0px;
+}
+.downtwo-section p{
+
+font-size: 15px;
+
+font-family: sans-serif;
+
+padding-bottom: 30px;
+}
+.downtwo-section span{}
+.downtwo-section span a{
+	
+border: 1px solid #49e8e8;
+	
+color: white;
+	
+padding: 15px 43px;
+	
+border-radius: 28px;
+	
+text-decoration: none;
+}
+.downtwo-section span a:hover{
+	
+background: #9fd2d2;
+}
+.down-two p{
+
+padding-bottom: 53px;
+}
+.down-three p{
+
+padding-bottom: 96px;
+}
+.downthree-section{
+
+background: #434a52;
+
+height: 510px;
+
+padding: 108px 0px;
+
+color: white;
+}
+.downthree-section h1{
+
+font-size: 31px;
+
+font-weight: 700;
+}
+.downthree-section ul {
+
+list-style-type: none;
+}
+.downthree-section ul li {
+
+}
+.downthree-section ul li a{
+	
+display: block;
+	
+color: white;
+	
+padding: 3px 25px;
+	
+text-decoration: none;
+	
+font-family: inherit;
+	
+font-weight: 500;
+}
+.downthree-section .col-6{
+
+border: 1px lightsteelblue;
+}
+.logo{
+
+}
+.logo img{
+
+}
+.footer{
+	
+text-align: right;
+}
+.footer p{
+
+display: inline;
+
+padding: 0px 15px;
+}
+.footer span{}
+.footer span a{
+
+color: white;
+
+margin: 2px 7px;
+
+height: 50px;
+
+width: 50px;
+}
+.row hr{
+	
+background: #929292;
+	
+margin-bottom: 50px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
